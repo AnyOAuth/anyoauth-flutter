@@ -1,0 +1,22 @@
+{
+  "target": "flutter",
+  "version": "0.1.0",
+  "tag": "v0.1.0",
+  "repository": "https://github.com/AnyOAuth/anyoauth-flutter",
+  "release": "https://github.com/AnyOAuth/anyoauth-flutter/releases/tag/v0.1.0",
+  "schemaSha256": "1b99cb23da24b2aa0af33d45aadf907de460185671bc29fa61402450e390d6a2",
+  "sourceCommit": "c44e7460cbebe26a6baa00bc6c4ee2f48d69e907",
+  "files": {
+    ".github/workflows/verify.yml": "5a2cda32eca413fb4868d2cdcb1781947c330934baf22a504abf19dfffb00432",
+    ".gitignore": "de3c0bfc38c228c9c7fe37a2726be443fee294a0f46319c6a89005ea8d328c65",
+    "LICENSE": "3c9fac2d1ae230e52ce82ed635341b438e0c4957bc637a1a792c2def5b82c61a",
+    "README.md": "c3627f0d3619df8eace113019f8ec3ba03f7b4529b8b2b0c0cd98281c748f208",
+    "conformance.test.mjs": "1500c6898fca7ba190f59d08e7c2b8255c14f230b377fe6b6d7034dd89a170a6",
+    "lib/anyoauth_client.dart": "18f8c73eec74e89c50b3b02dbf9e4247880bba6690fd052a131dc7132aae86d9",
+    "provenance.json": "e096d355ef27f1c914205684f192c1d3b7d8625bba21dd4bf04cb9f8467c93ac",
+    "pubspec.yaml": "319a833f50f9d4ae15ca6fdeb9432d072836bcb7583604ee6a56acd995e51856",
+    "test/conformance.dart": "465100140a24ab3d502c31eef94cacd8dd7b4474d8bfe103fba0fa90b86f346b",
+    "test/models.dart": "6e9c18a06c9908c20be565c8fa94d333afff31cd580311c6489c1634f0658a8e",
+    "verify.mjs": "628ea7a7fc955b5a12ab17e8ff90f406aea5ca32a1e4f3357cd6234e2ab77e38"
+  }
+}

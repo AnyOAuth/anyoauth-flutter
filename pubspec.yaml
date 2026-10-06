@@ -1,0 +1,8 @@
+name: anyoauth_client
+description: Secret-free local AnyOAuth login helpers for Dart and Flutter.
+version: 0.1.0
+repository: https://github.com/AnyOAuth/anyoauth-flutter
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  crypto: 3.0.6
